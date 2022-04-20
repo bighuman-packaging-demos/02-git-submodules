@@ -1,0 +1,6 @@
+[submodule "dependency"]
+	path = dependency
+	url = git@github.com:bighuman-packaging-demos/02-git-submodules--dependency.git
+[submodule "dependent"]
+	path = dependent
+	url = git@github.com:bighuman-packaging-demos/02-git-submodules--dependent.git
